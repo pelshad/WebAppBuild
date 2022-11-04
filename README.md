@@ -7,6 +7,10 @@ npx create-expo-app 폴더명
 
 npm install react-native-webapp
 
+expo start
+
+expo build:android
+
 ## android studio
 
 https://noa-xyz.tistory.com/21
