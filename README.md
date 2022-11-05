@@ -11,6 +11,8 @@ expo start
 
 expo build:android
 
+expo build:ios
+
 ## android studio
 
 https://noa-xyz.tistory.com/21
